@@ -1,0 +1,9 @@
+{
+  "name": "**玄机 - OmniDivination",
+  "description": "集中国传统命理与西方神秘学于一体的综合玄学应用。包含八字、紫微、六爻、风水、占星、塔罗等全方位预测分析。",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
